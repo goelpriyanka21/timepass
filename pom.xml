@@ -74,7 +74,7 @@
                 </configuration>
                 <executions>
                     <execution>
-                        <hotelId>make-assembly</hotelId>
+                        <id>make-assembly</id>
                         <phase>package</phase>
                         <goals>
                             <goal>single</goal>
